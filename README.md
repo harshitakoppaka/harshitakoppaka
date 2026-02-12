@@ -1,76 +1,62 @@
 # Hi, I'm Harshita 👋
 
-Software Engineering student building scalable backend systems and AI-enabled applications.
+Software Engineer and AI practitioner building backend systems, intelligent APIs, and scalable services.
 
-I focus on designing reliable, cloud-native software that integrates machine learning and LLM-powered pipelines into production-ready systems.
-
----
-
-## 🚀 What I Work On
-
-• Backend systems using Java, Python, and microservices  
-• AI-enabled applications using RAG and LLM integration  
-• Cloud-native architectures on AWS  
-• Scalable data pipelines and distributed systems  
+I design and deliver production-ready applications using modern software engineering principles and AI-enabled features.
 
 ---
 
-## 🧠 Current Focus
+## 🧠 What I Do
 
-- Retrieval-Augmented Generation (RAG) systems
-- Microservices architecture (Spring Boot + REST APIs)
-- Cloud-native backend development
-- Performance optimization and low-latency systems
-- Applied AI in structured data systems
+• Backend engineering with REST APIs and microservices  
+• Cloud-native systems with AWS and Docker  
+• Applied AI with LLMs, RAG, and ML pipelines  
+• Scalable data workflows and integrations  
 
 ---
 
-## 🛠 Technical Skills
+## 🔧 Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Backend & Cloud
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Node.js](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI & Data
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-102230?style=for-the-badge)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-007ACC?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Key Projects
 
-### 🔹 AI-Enabled Retrieval-Augmented Generation System
-End-to-end backend system enabling semantic search over structured datasets using RAG architecture.  
-Built similarity indexing in C++ for low-latency retrieval and integrated LLMs for context-aware responses.
+### 🔹 AI-Powered Search API  
+Design and build backend API with RAG and LLM integration for semantic querying over structured data.
 
-### 🔹 AI Query Management Service
-Spring Boot microservices architecture with REST APIs, validation, structured logging, and scalable workflows on AWS.
+### 🔹 Distributed Backend Systems  
+Spring Boot and REST microservices deployed with CI/CD to AWS, optimized for scale and reliability.
 
-### 🔹 Flight Delay Analytics Platform
-Backend data pipelines processing 50M+ records using Python and SQL with Dockerized deployment and CI/CD.
+### 🔹 Analytics Data Pipelines  
+Python and SQL workflows for data transformation and processing, packaged with Docker and automated testing.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitakoppaka&show_icons=true)
+![Harshita’s GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitakoppaka&show_icons=true)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
-- LinkedIn: https://linkedin.com/in/harshita-koppaka
-- Email: harshita.koppaka@gmail.com
-
+LinkedIn: https://www.linkedin.com/in/harshita-koppaka-80a54530a  
+Email: harshita.koppaka@gmail.com
