@@ -1,4 +1,4 @@
-# Hi, I'm Harshita 👋
+# Hi, I'm Harshita Koppaka👋
 
 Computer Science student focused on software engineering and applied AI.
 I like building clean, scalable systems that are ready for real use.
