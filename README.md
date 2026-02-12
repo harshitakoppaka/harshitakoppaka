@@ -48,11 +48,7 @@ Spring Boot and REST microservices deployed with CI/CD to AWS, optimized for sca
 ### 🔹 Analytics Data Pipelines  
 Python and SQL workflows for data transformation and processing, packaged with Docker and automated testing.
 
----
 
-## 📊 GitHub Stats
-
-![Harshita’s GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitakoppaka&show_icons=true)
 
 ---
 
