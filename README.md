@@ -1,8 +1,7 @@
 # Hi, I'm Harshita 👋
 
-Software Engineer and AI practitioner building backend systems, intelligent APIs, and scalable services.
-
-I design and deliver production-ready applications using modern software engineering principles and AI-enabled features.
+Computer Science student focused on software engineering and applied AI.
+I like building clean, scalable systems that are ready for real use.
 
 ---
 
